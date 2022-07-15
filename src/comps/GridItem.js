@@ -16,7 +16,7 @@ const GridItem = (props) => {
           />  
    </a>
    <div style={{display: 'flex'}}>
-   <div className="titleText" onClick={() => props.handlerFunc(title)}>{props.title}</div>
+   <div className="titleText">{props.title}</div>
    </div>
    <div style={{display: 'flex', flexDirection: 'row'}}>
   
@@ -32,3 +32,15 @@ const GridItem = (props) => {
 }
 
 export default GridItem;
+
+
+
+
+
+
+
+    
+
+
+
+    

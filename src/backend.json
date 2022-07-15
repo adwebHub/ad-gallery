@@ -1,8 +1,37 @@
 [
+ 
+  {
+    "url": "/images/vodafone_myCU.jpg",
+    "href": " https://clipcentric.com/user-9/adPreview.phtml?fk=ixkLeGL014782f",
+    "title": "vodafone - MY CU App",
+    "platform": ["Video", "Animation"],
+    "id": 21
+  },
+  {
+    "url": "/images/pitsos_retube.jpg",
+    "href": "https://clipcentric.com/user-9/adPreview.phtml?uk=RwbnPOqc1a385",
+    "title": "pitsos",
+    "platform": ["Video", "Animation"],
+    "id": 20
+  },
+  {
+    "url": "/images/amita_fusika.jpg",
+    "href": "https://clipcentric.com/user-9/adPreview.phtml?uk=ObF0tKe618ed3",
+    "title": "amita - φυσικά μοναδική",
+    "platform": ["Video", "Animation"],
+    "id": 19
+  },
+  {
+    "url": "/images/louis.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=y7l8vEkj1de4a",
+    "title": "louis vitton",
+    "platform": ["Video", "Animation"],
+    "id": 18
+  },
   {
     "url": "/images/jurassic_world.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=xdwYtdKx1dafd",
-    "title": "Jurrasic World",
+    "title": "jurrasic world",
     "platform": ["Video", "Animation"],
     "id": 17
   },
@@ -113,7 +142,7 @@
   },
   {
     "url": "/images/heineken_silver.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=8IdyOcx71d01b",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=D1GUVZnB1dcc9",
     "title": "heineken - silver",
     "platform": ["Animation", "Video"],
     "id": 1

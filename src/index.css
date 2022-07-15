@@ -120,7 +120,7 @@ label:hover{
   border-radius: 30px;
   border: none;
   background-color: #F5F5F5;
-  height: 50px;
+  line-height: 50px;
 }
 .imgTag{
   position: relative;
@@ -223,3 +223,6 @@ label:hover{
   background-color: white;
 }
 
+*:focus {
+  outline: none;
+}

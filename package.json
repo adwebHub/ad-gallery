@@ -22,7 +22,7 @@
     "styled-components": "^5.3.5"
   },
   "scripts": {
-    "start": "node app",
+    "start": "node app.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

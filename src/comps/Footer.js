@@ -58,7 +58,6 @@ return (
 		</Row>
 	</Container>
 	<div style={{float: "right", color: "white"}}>©2022 adweb.gallery.gr</div>
-	<img src="https://adweb.gr/site_assets/iab-memberseal-black-01.png"></img>	
 	</Box>
 	
 );
