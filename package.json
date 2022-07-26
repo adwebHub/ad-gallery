@@ -18,11 +18,13 @@
     "heroku": "^7.60.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "3.4.1",
     "styled-components": "^5.3.5"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
