@@ -18,12 +18,13 @@ function Navbar(props) {
   return (
     <>
       <IconContext.Provider value={{ color: '#fff' }}>
-        <div className='navbar'>
+        <div className='navbar' id='style-7'>
           <Link to='#' className='menu-bars'>
             <FaIcons.FaBars onClick={showSidebar} />
           </Link>
+        <span id='myId'>Disover our awesome formats</span>
         </div>
-        <nav className={sidebar ? 'nav-menu active' : 'nav-menu'}>
+        <nav className={sidebar ? 'nav-menu active' : 'nav-menu'} id='style-7'>
           <ul className='nav-menu-items' onClick={showSidebar}>
             <li className='navbar-toggle'>
               <Link to='#' className='menu-bars'>

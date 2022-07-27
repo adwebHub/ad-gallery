@@ -1,14 +1,463 @@
 [
   {
+    "url": "/images/heineken_hero.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=qqnRq4NY1dc45",
+    "title": "heineken - hero",
+    "platform": ["Interactive Video Parallax"],
+    "id": 31
+  },
+  {
+    "url": "/images/sephora.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=nvyHGXLj1d0ca",
+    "title": "sephora - Too faced",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
+    "url": "/images/bmw_motorrad.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=aH00Molv1d031",
+    "title": "bmw - motorrad",
+    "platform": ["Interactive Billboard"],
+    "id": 30
+  },
+  {
+    "url": "/images/nintendo.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=Nj1xzKKI1d114",
+    "title": "nintendo - switch",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "/images/nui.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=ALCjJrh81d113",
+    "title": "nui - Η επόμενη σου περιπέτεια",
+    "platform": ["Retube"],
+    "id": 20
+  },
+  {
+    "url": "/images/vikos_takeover.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=hrkLYF2o1d6c7",
+    "title": "vikos - water",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+
+  {
+    "url": "/images/heineken_silver.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=D1GUVZnB1dcc9",
+    "title": "heineken - silver",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
+    "url": "/images/jurassic_world.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=xdwYtdKx1dafd",
+    "title": "jurrasic world",
+    "platform": ["3D Billboard"],
+    "id": 29
+  },
+  {
+    "url": "/images/deh.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=FRh58SAt1dbce",
+    "title": "δεη - fixit",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "/images/nymfi_beer.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=erammY7I1dc4b",
+    "title": "nymfi - beer",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "/images/vergina_demo.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=eVkzYoNj1e182",
+    "title": "vergina - selector",
+    "platform": ["Webover Video Selector"],
+    "id": 28
+  },
+  {
+    "url": "/images/disneyPlus.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=S5bP2jT31d91d",
+    "title": "disney - disney+",
+    "platform": ["Webover Video Selector"],
+    "id": 28
+  },
+  {
+    "url": "/images/thorLady.jpg",
+    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=XvHfEVf_1dbe9",
+    "title": "tulip - thor love & thunder",
+    "platform": ["Video", "Animation"],
+    "id": 13
+  },
+  {
+    "url": "/images/thorSkin.jpg",
+    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=XGbHPYOZ1dc43",
+    "title": "tulip - thor love & thunder",
+    "platform": ["Video", "Animation"],
+    "id": 12
+  },
+  {
+    "url": "/images/kotsovolos_webover.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=u9MPpFVD1e180",
+    "title": "kotsovolos - black friday 2020",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "/images/hell_webover.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=hHuZkQDG1e17f",
+    "title": "hell - tailor made",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "/images/tommy_videoOverlay.jpg",
+    "href": "http://adweb.gr/demo/general_demo/tommy_video_overlay.html",
+    "title": "tommy hilfiger - zendaya",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "/images/ab_videoOverlay.jpg",
+    "href": "https://adweb.gr/demo/video_overlay/",
+    "title": "αβ βασιλόπουλος - promo",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "/images/heinz_slider2.jpg",
+    "href": "https://clipcentric.com/user-9/adPreview.phtml?uk=Ia7n9W5g1bedc",
+    "title": "heinz - mayo & ketchup",
+    "platform": ["Vertical Slider"],
+    "id": 24
+  },
+  {
+    "url": "/images/vodafone_slider.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=PlrM5SRT1e17e",
+    "title": "vodafone - el embarcadero",
+    "platform": ["Vertical Slider"],
+    "id": 24
+  },
+  {
+    "url": "/images/deh_psifiaki_voithos.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=zbclzToE1e17d",
+    "title": "δεη - ψηφιακή βοηθός",
+    "platform": ["Vertical Slider"],
+    "id": 24
+  },
+  {
+    "url": "/images/heinz_slider.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=PG7NSzTB1e17c",
+    "title": "heinz - mayo & ketchup",
+    "platform": ["Vertical Slider"],
+    "id": 24
+  },
+  {
+    "url": "/images/dove_svt.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=uSO4Azrj1c881",
+    "title": "dove - cleopatra",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/elc_svt.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=uOBW6PMY1e17b",
+    "title": "macstack - mascara",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/calvinKlein_svt.jpg",
+    "href": "http://clipcentric.com/user-9/adPreview.phtml?uk=MaOCps0n1acc6",
+    "title": "calvin klein - halo",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/aegean_svt.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=ef0EAown1c096",
+    "title": "aegean - black friday 2021",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/vodafone_svt.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=lGOfsZpw1e179",
+    "title": "vodafone - 5g",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/boc_svt.jpg",
+    "href": "http://clipcentric.com/user-9/adPreview.phtml?uk=H0J_Kfqh180b5&wait=1",
+    "title": "bank of cyprus - wallet",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/str8_svt.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=XURhRrt71e176",
+    "title": "str8 - fr34k",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/karcher_svt_k3.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=yA3Tz7z_1e175",
+    "title": "kärcher - πλυστικό k3",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/mattel_pictionary.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=YAzqMPUv1e174",
+    "title": "mattel - pictionary",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/tommy_superVid.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=UFBlLNAD1e173",
+    "title": "tommy hilfiger - zendaya",
+    "platform": ["Super Video Takeover"],
+    "id": 23
+  },
+  {
+    "url": "/images/eko_svb.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=o3laIhtx1e129",
+    "title": "eko - premium 98",
+    "platform": ["Super Video Billboard"],
+    "id": 22
+  },
+  {
+    "url": "/images/vasilopoulos.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=RySjJ5bs1d11d",
+    "title": "αβ βασιλόπουλος - φυλλάδιο",
+    "platform": ["e-magazine"],
+    "id": 99
+  },
+  {
+    "url": "/images/vodafone_gigaNetwork.jpg",
+    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=4l_8SbcR1e127",
+    "title": "vodafone - 5g",
+    "platform": ["Super Video Billboard"],
+    "id": 22
+  },
+  {
+    "url": "/images/nissan_leaf.jpg",
+    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=ziWs5jz41e122",
+    "title": "nissan - leaf",
+    "platform": ["Super Video Billboard"],
+    "id": 22
+  },
+  {
+    "url": "/images/intersport_sideKick.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=KyzQEVVO1e11f",
+    "title": "intersport - winter pre-sales",
+    "platform": ["Sidekick"],
+    "id": 21
+  },
+  {
+    "url": "/images/riverWest_sideKick.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=QVyOalGw1e11d",
+    "title": "river west - openism",
+    "platform": ["Sidekick"],
+    "id": 21
+  },
+  {
+    "url": "/images/developAthens_sideKick.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=lvclVcPe1e11a",
+    "title": "develop athens - athens is back",
+    "platform": ["Sidekick"],
+    "id": 21
+  },
+  {
+    "url": "/images/xiaomi_sideKick.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=VgZoKYf_1e119",
+    "title": "xiaomi - promo",
+    "platform": ["Sidekick"],
+    "id": 21
+  },
+  {
+    "url": "/images/angelopoulos_sideKick.jpg",
+    "href": "  https://clipcentric.com/user-10/adPreview.phtml?uk=X1s15yUX1e117",
+    "title": "angelopoulos - black friday 2020",
+    "platform": ["Sidekick"],
+    "id": 21
+  },
+  {
+    "url": "/images/elpedison_responsive.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=rK-9BktU1c121",
+    "title": "elpedison - οικονομικό ρεύμα",
+    "platform": ["Responsive"],
+    "id": 19
+  },
+  {
+    "url": "/images/winmasters_responsive.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=cKuQY-7m1e115",
+    "title": "winmasters",
+    "platform": ["Responsive"],
+    "id": 19
+  },
+  {
+    "url": "/images/vodafone_disney.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=3bRJ4Hah1d7d6",
+    "title": "vodafone - disney+",
+    "platform": ["MOVEX"],
+    "id": 18
+  },
+  {
+    "url": "/images/dove_purpose.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=-zE2wCZz1cae4",
+    "title": "dove - purpose",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "/images/angelopoulos_blackFriday.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=u1uJ9Ly-1e111",
+    "title": "angelopoulos - black friday 2021",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "/images/riverWest_openism.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=C5h2pDaO1e10c",
+    "title": "river west - openism",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "/images/metaxa_13.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=PdJKukq51e10a",
+    "title": "metaxa - dark chocolate",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  }, 
+  {
+    "url": "/images/ab_lauraAshley_scratch.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=Jm0WcmwP1e109",
+    "title": "αβ βασιλόπουλος - laura ashley",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "/images/ion_webover.jpg",
+    "href": "https://adweb.gr/demo/interstitial/",
+    "title": "ion - για πάντα",
+    "platform": ["Interstitial / Overlay"],
+    "id": 16
+  },
+  {
+    "url": "/images/chivas_13.jpg",
+    "href": "https://canvas.adweb.gr/inline-video/",
+    "title": "chivas - 13",
+    "platform": ["Inline Video"],
+    "id": 15
+  },
+  {
+    "url": "/images/chivas_kontizas.jpg",
+    "href": "https://clipcentric.com/user-9/adPreview.phtml?uk=XzoROIrg1c44e",
+    "title": "chivas - 12",
+    "platform": ["In Banner Video"],
+    "id": 14
+  },
+  {
+    "url": "/images/nissan_leaf.jpg",
+    "href": "https://clipcentric.com/user-9/adPreview.phtml?uk=XzoROIrg1c44e",
+    "title": "nissan - leaf",
+    "platform": ["In Banner Video"],
+    "id": 14
+  },
+  {
+    "url": "/images/heineken_credentials.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=BaPdyzs01d56f",
+    "title": "heineken - credentials",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/disneyPlus.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=pEG1O6qc1d774",
+    "title": "disney - disney+",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/alpro_header_video.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=53WZ-tN01d2e3",
+    "title": "alpro - φυσικά!",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/mapei_header_video.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=AuYn2UO41d12c",
+    "title": "mapei",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/vodafone_smartForest.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=kQAdYXhq1cf61",
+    "title": "vodafone - smart forest",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/pernod_beefeater.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=-5Kem0LF1cf66",
+    "title": "pernod ricard - beefeater",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/mamos_header_video.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=VTiG1dEO1c888",
+    "title": "mamos - promo",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/dove_cleopatra2.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=Qu07yapf1c880",
+    "title": "dove - cleopatra 2",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/dove_cleopatra1.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=IBTwvax01c87f",
+    "title": "dove - cleopatra 1",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/ergo_header.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=Wa5EcTs41c65d",
+    "title": "ergo",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "/images/calvinKlein_greece.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=uGU0NmIV1e0fc",
+    "title": "calvin klein - halo",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
     "url": "/images/tommy_promo1.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=JtzB4K2d1e0f7",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=SPETReEf1e0fb",
     "title": "tommy hilfiger - promo",
     "platform": ["Header Responsive with Video"],
     "id": 13
   },
   {
-    "url": "/images/tommy_passTheMic.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=JtzB4K2d1e0f7",
+    "url": "/images/tommy_promo2.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=S2ed5Ce-1e0fa",
     "title": "tommy hilfiger - promo",
     "platform": ["Header Responsive with Video"],
     "id": 13
@@ -161,6 +610,13 @@
     "id": 11
   },
   {
+    "url": "/images/jeep_renegade.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=WmodQe1F1d17d",
+    "title": "jeep - renegade",
+    "platform": ["Sidekick"],
+    "id": 21
+  },
+  {
     "url": "/images/elin_header.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=T_vVKHfq1df86",
     "title": "elin - unleaded crystal",
@@ -205,7 +661,7 @@
   {
     "url": "/images/ab_auraAshley.jpg",
     "href": "https://adweb.gr/demo/floor_ad/",
-    "title": "αβ βασιλόπουλος - aura ashley",
+    "title": "αβ βασιλόπουλος - laura ashley",
     "platform": ["Floor Ad"],
     "id": 8
   },
@@ -492,7 +948,7 @@
   {
     "url": "/images/galerie_advertorial.jpg",
     "href": "https://valueforlife.gr/sponsored-content/?ean-article-id=nu9eoij1&ean-article-pid=1265&ean-uid=98b004e2-fe41-42f3-3a90-d1477998615d&ean-vid=1600872850769.1w124g8b&ean-pid=30079&ean-sid=undefined&ean-cpid=undefined&ean-pubid=undefined&ean-country=undefined&ean-feac=undefined&ean-dsp=Quantum&ean-test-native=true&ean-testall-native=true&ean-test-quantx-hash=nu9eoij1&adArticleJsonPath=aHR0cHMlM0ElMkYlMkZzMy5hbWF6b25hd3MuY29tJTJGZmlsZXMuc3NwLnRoZWFkdGVjaC5jb20lMkZuYXRpdmUlMkZhZCUyRm51OWVvaWoxJTJGYXJ0aWNsZSUyRnNldHRpbmdz",
-    "title": "gallerie de beaute - μοναδική ομορφιά",
+    "title": "gallerie de beaute - αποχρώσεις",
     "platform": ["Advertorial"],
     "id": 3
   },
@@ -529,7 +985,7 @@
     "href": "https://clipcentric.com/user-9/adPreview.phtml?fk=ixkLeGL014782f",
     "title": "vodafone - MY CU App",
     "platform": ["Retube"],
-    "id": 21
+    "id": 20
   },
   {
     "url": "/images/pitsos_retube.jpg",
@@ -543,140 +999,35 @@
     "href": "https://clipcentric.com/user-9/adPreview.phtml?uk=ObF0tKe618ed3",
     "title": "amita - φυσικά μοναδική",
     "platform": ["Retube"],
-    "id": 19
+    "id": 20
   },
   {
     "url": "/images/louis.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=y7l8vEkj1de4a",
     "title": "louis vitton",
-    "platform": ["Video", "Animation"],
-    "id": 18
-  },
-  {
-    "url": "/images/jurassic_world.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=xdwYtdKx1dafd",
-    "title": "jurrasic world",
-    "platform": ["Video", "Animation"],
-    "id": 17
-  },
-  {
-    "url": "/images/deh.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=_MWZiFSy1db0e",
-    "title": "δεη",
-    "platform": ["Video", "Carousel"],
-    "id": 16
-  },
-  {
-    "url": "/images/nymfi_beer.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=erammY7I1dc4b",
-    "title": "nymfi - beer",
-    "platform": ["Interactive"],
-    "id": 15
-  },
-  {
-    "url": "/images/disneyPlus.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=S5bP2jT31d91d",
-    "title": "disney - disney+",
-    "platform": ["Video", "Animation"],
-    "id": 14
-  },
-  {
-    "url": "/images/thorLady.jpg",
-    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=XvHfEVf_1dbe9",
-    "title": "tulip - thor love & thunder",
-    "platform": ["Video", "Animation"],
-    "id": 13
-  },
-  {
-    "url": "/images/thorSkin.jpg",
-    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=XGbHPYOZ1dc43",
-    "title": "tulip - thor love & thunder",
-    "platform": ["Video", "Animation"],
-    "id": 12
+    "platform": ["Retube"],
+    "id": 20
   },
   {
     "url": "/images/northman.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=ED0foQFD1c7dc",
     "title": "tulip - the northman",
-    "platform": ["Video"],
-    "id": 11
+    "platform": ["Super Video Billboard"],
+    "id": 22
   },
   {
     "url": "/images/cocacola.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=RcqkJTta1d360",
     "title": "coca cola - περιβάλλον",
-    "platform": ["Scratch"],
-    "id": 10
+    "platform": ["Interstitial Scratch"],
+    "id": 17
   },
   {
     "url": "/images/heineken_scratch.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=So267sRR1cf76",
     "title": "heineken - silver",
-    "platform": ["Scratch"],
-    "id": 9
-  },
-  {
-    "url": "/images/heineken_hero.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=qqnRq4NY1dc45",
-    "title": "heineken - hero",
-    "platform": ["Animation", "Video"],
-    "id": 8
-  },
-  {
-    "url": "/images/jeep_renegade.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=WmodQe1F1d17d",
-    "title": "jeep - renegade",
-    "platform": ["Animation"],
-    "id": 7
-  },
-  {
-    "url": "/images/sephora.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=nvyHGXLj1d0ca",
-    "title": "sephora - Too faced",
-    "platform": ["Full Page Takeover"],
-    "id": 10
-  },
-  {
-    "url": "/images/vasilopoulos.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=RySjJ5bs1d11d",
-    "title": "αβ βασιλόπουλος - φυλλάδιο",
-    "platform": ["Animation"],
-    "id": 5
-  },
-  {
-    "url": "/images/bmw_motorrad.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=aH00Molv1d031",
-    "title": "bmw - motorrad",
-    "platform": ["Animation", "Carousel"],
-    "id": 4
-  },
-  {
-    "url": "/images/nintendo.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=Nj1xzKKI1d114",
-    "title": "nintendo - switch",
-    "platform": ["Interactive"],
-    "id": 3
-  },
-  {
-    "url": "/images/nui.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=ALCjJrh81d113",
-    "title": "nui - Η επόμενη σου περιπέτεια",
-    "platform": ["Retube"],
-    "id": 2
-  },
-  {
-    "url": "/images/vikos_takeover.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=hrkLYF2o1d6c7",
-    "title": "vikos - water",
-    "platform": ["Full Page Takeover"],
-    "id": 10
-  },
-  {
-    "url": "/images/heineken_silver.jpg",
-    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=D1GUVZnB1dcc9",
-    "title": "heineken - silver",
-    "platform": ["Full Page Takeover"],
-    "id": 10
+    "platform": ["Interstitial Scratch"],
+    "id": 17
   }
 ]
 

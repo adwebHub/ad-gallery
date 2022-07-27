@@ -5,6 +5,14 @@ import * as IoIcons from 'react-icons/io';
 
 export const SidebarData = [
   {
+    title: '3D Billboard',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: '3D Billboard',
+    id: 29
+  },
+  {
     title: '3D Cube',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -113,90 +121,119 @@ export const SidebarData = [
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'In Banner Video'
+    myName: 'In Banner Video',
+    id: 14
   },
   {
     title: 'Inline Video',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Inline Video'
+    myName: 'Inline Video',
+    id: 15
+  },
+  {
+    title: 'Interactive Footer with Video',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Interactive Footer with Video',
+    id: 27
   },
   {
     title: 'Interstitial / Overlay',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Interstitial / Overlay'
+    myName: 'Interstitial / Overlay',
+    id: 16
   },
   {
     title: 'Interstitial Scratch',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Interstitial Scratch'
+    myName: 'Interstitial Scratch',
+    id: 17
   },
   {
     title: 'Mobile Video Expandable (MOVEX)',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Mobile Video Expandable (MOVEX)'
+    myName: 'Mobile Video Expandable (MOVEX)',
+    id: 18
   },
   {
     title: 'Responsive ads',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Responsive ads'
+    myName: 'Responsive ads',
+    id: 19
   },
   {
     title: 'Retube',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Retube'
+    myName: 'Retube',
+    id: 20
   },
   {
     title: 'SideKick',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'SideKick'
+    myName: 'SideKick',
+    id: 21
   },
   {
     title: 'Super Video Billboard',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Super Video Billboard'
+    myName: 'Super Video Billboard',
+    id: 22
   },
   {
     title: 'Super Video Takeover',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Super Video Takeover'
+    myName: 'Super Video Takeover',
+    id: 23
   },
   {
     title: 'Vertical Slider',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Vertical Slider'
+    myName: 'Vertical Slider',
+    id: 24
   },
   {
     title: 'Video Overlay',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Video Overlay'
+    myName: 'Video Overlay',
+    id: 25
   },
   {
     title: 'Wallpaper Takeover',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Wallpaper Takeover'
+    myName: 'Wallpaper Takeover',
+    id: 26
+  },
+  {
+    title: 'Webover Video Selector',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Webover Video Selector',
+    id: 28
   },
 ];

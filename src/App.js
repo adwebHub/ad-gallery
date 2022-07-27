@@ -55,7 +55,7 @@ function App() {
             terms.splice(index, 1);
             termsID.splice(index, 1); 
          }
-          if ( true ){
+        if ( true ){
             let result = [];
             let test = [];
             terms.forEach(element => {
@@ -65,7 +65,8 @@ function App() {
               Array.prototype.push.apply(result,test);
             });   
           setFilteredData(result);
-        }else if (terms.length == 0 && searchTerm == '')
+        }
+        if (terms.length == 0 && searchTerm == '')
           setFilteredData(allData);
         console.log(terms);
      }
