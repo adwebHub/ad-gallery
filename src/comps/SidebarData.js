@@ -3,14 +3,6 @@ import * as AiIcons from 'react-icons/ai';
 
 export const SidebarData = [
   {
-    title: '3D Billboard',
-    path: '/',
-    icon: <AiIcons.AiFillTag color='black' />,
-    cName: 'nav-text',
-    myName: '3D Billboard',
-    id: 29
-  },
-  {
     title: '3D Cube',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -265,5 +257,13 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'In Read Video',
     id: 32
+  },
+  {
+    title: '3D Billboard',
+    path: '/',
+    icon: <AiIcons.AiFillTag color='black' />,
+    cName: 'nav-text',
+    myName: '3D Billboard',
+    id: 33
   },
 ];
