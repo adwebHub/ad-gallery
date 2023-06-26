@@ -75,11 +75,11 @@ export const SidebarData = [
     id: 8
   },
   {
-    title: 'Footer Video Expand',
+    title: 'Footer Expand',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Footer Video Expand',
+    myName: 'Footer Expand',
     id: 9
   },
   {
@@ -266,4 +266,12 @@ export const SidebarData = [
     myName: '3D Billboard',
     id: 33
   },
+  {
+    title: 'Webover Image Gallery',
+    path: '/',
+    icon: <AiIcons.AiFillTag color='black' />,
+    cName: 'nav-text',
+    myName: 'Webover Image Gallery',
+    id: 34
+  }
 ];

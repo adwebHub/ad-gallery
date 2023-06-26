@@ -63,6 +63,13 @@
     "id": 26
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/feelgood_wig_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/feelgood/transformers_gallery_alt.html",
+    "title": "feelgood - transformers june 2023",
+    "platform": ["Webover Image Gallery"],
+    "id": 34
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
     "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
     "title": "calvin klein - oct 2022",
@@ -89,6 +96,13 @@
     "title": "corona - summer promo june 2023",
     "platform": ["3D Cube"],
     "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/fischer_timer_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/fischer/header_timer.html",
+    "title": "fischer - summer cinemas may 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_lampa_june2023.png",
@@ -131,5 +145,13 @@
     "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
     "platform": ["3D Cube"],
     "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tileorasi.html",
+    "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
   }
+
 ]
