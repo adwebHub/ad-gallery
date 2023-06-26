@@ -24,7 +24,7 @@ function App() {
 
   const fetchData = async () => {
     try {
-      const response = await axios.get('https://raw.githubusercontent.com/panos1994/myBackend/main/backend.json');
+      const response = await axios.get('https://raw.githubusercontent.com/adwebHub/backend/main/backend.json');
       const data = response.data;
       console.log(data)
       setAllData(data);
