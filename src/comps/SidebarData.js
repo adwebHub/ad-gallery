@@ -131,14 +131,6 @@ export const SidebarData = [
     id: 15
   },
   {
-    title: 'Interactive Footer with Video',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Interactive Footer with Video',
-    id: 27
-  },
-  {
     title: 'Interstitial / Overlay',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -227,6 +219,14 @@ export const SidebarData = [
     id: 26
   },
   {
+    title: 'Interactive Footer with Video',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Interactive Footer with Video',
+    id: 27
+  },
+  {
     title: 'Webover Video Selector',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -241,5 +241,13 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Overlay',
     id: 29
+  },
+  {
+    title: 'Clipflip',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Clipflip',
+    id: 30
   },
 ];
