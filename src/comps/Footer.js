@@ -34,7 +34,7 @@ return (
 			<Heading>Contact Us</Heading>
 			<FooterLink>info@adweb.gr </FooterLink>
 			<div style={{flexDirection: 'row'}}>
-			<FontAwesomeIcon icon={faMapMarkerAlt}></FontAwesomeIcon>
+			<FontAwesomeIcon icon={faMapMarkerAlt} color='white'></FontAwesomeIcon>
 			<FooterLink style={{marginLeft: '5px'}} href="https://www.google.com/maps/place/AdWeb/@38.0187227,23.7965633,17z/data=!3m1!4b1!4m5!3m4!1s0x149a599056b7816d:0x107365918122b8fa!8m2!3d38.0187293!4d23.7965667" target="_blank">Headquarters</FooterLink>
 			</div>
 		</Column>

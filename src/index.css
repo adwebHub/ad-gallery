@@ -11,6 +11,7 @@
 body{
   font-family: "Quicksand", Arial;
   color: var(--secondary);
+  margin: 0;
 }
 .App{
   margin: 0 auto;

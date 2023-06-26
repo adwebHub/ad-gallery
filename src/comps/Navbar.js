@@ -22,14 +22,15 @@ function Navbar(props) {
           <Link to='#' className='menu-bars'>
             <FaIcons.FaBars onClick={showSidebar} />
           </Link>
-        <span id='myId'>Disover our awesome formats</span>
+        <span id='myId'>Discover our awesome formats</span>
         </div>
-        <nav className={sidebar ? 'nav-menu active' : 'nav-menu'} id='style-7'>
+        <nav className={sidebar ? 'nav-menu' : 'nav-menu active'} id='style-7'>
           <ul className='nav-menu-items' onClick={showSidebar}>
             <li className='navbar-toggle'>
               <Link to='#' className='menu-bars'>
                 <AiIcons.AiOutlineClose />
               </Link>
+              <span id='myId'>Choose your format</span>
             </li>
             {SidebarData.map((item, index) => {
               return (

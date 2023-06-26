@@ -1,10 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { motion } from 'framer-motion';
-import { faSearch, faTag } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import GridItem from './GridItem';
-import backend from '../backend.json';
-import ToggleButton from './ToggleButton';
 
 const ImageGrid = (props) => {
   

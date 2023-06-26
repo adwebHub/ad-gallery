@@ -1,13 +1,11 @@
 import React from 'react';
-import * as FaIcons from 'react-icons/fa';
 import * as AiIcons from 'react-icons/ai';
-import * as IoIcons from 'react-icons/io';
 
 export const SidebarData = [
   {
     title: '3D Billboard',
     path: '/',
-    icon: <AiIcons.AiFillTag />,
+    icon: <AiIcons.AiFillTag color='black'/>,
     cName: 'nav-text',
     myName: '3D Billboard',
     id: 29

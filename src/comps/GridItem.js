@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons';
 
+
 const GridItem = (props) => {
- const title = props.title;
 
   return (  
     <div>
@@ -23,8 +23,11 @@ const GridItem = (props) => {
   {props.platform.map(function (value, index) {
     return <div className="myImgTags" key={index}>
     <FontAwesomeIcon icon={faTag}></FontAwesomeIcon> {value}</div>
+  
+    
   })
 }
+
    </div>
   </div>
   )

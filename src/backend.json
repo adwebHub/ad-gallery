@@ -1,6 +1,5 @@
-[
-  {
-    "url": "/images/heineken_hero.jpg",
+[{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2022/05/Jeep_Renegade-300x257.png",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=qqnRq4NY1dc45",
     "title": "heineken - hero",
     "platform": ["Interactive Video Parallax"],
@@ -83,20 +82,6 @@
     "title": "disney - disney+",
     "platform": ["Webover Video Selector"],
     "id": 28
-  },
-  {
-    "url": "/images/thorLady.jpg",
-    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=XvHfEVf_1dbe9",
-    "title": "tulip - thor love & thunder",
-    "platform": ["Video", "Animation"],
-    "id": 13
-  },
-  {
-    "url": "/images/thorSkin.jpg",
-    "href": " https://clipcentric.com/user-10/adPreview.phtml?uk=XGbHPYOZ1dc43",
-    "title": "tulip - thor love & thunder",
-    "platform": ["Video", "Animation"],
-    "id": 12
   },
   {
     "url": "/images/kotsovolos_webover.jpg",
@@ -335,7 +320,7 @@
     "title": "metaxa - dark chocolate",
     "platform": ["Interstitial Scratch"],
     "id": 17
-  }, 
+  },
   {
     "url": "/images/ab_lauraAshley_scratch.jpg",
     "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=Jm0WcmwP1e109",
@@ -482,13 +467,13 @@
     "title": "amstel - free",
     "platform": ["Header Responsive with Video"],
     "id": 13
-  }, 
+  },
   {
-  "url": "/images/milokleftis_header.jpg",
-  "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=heWix1mt1e0f0",
-  "title": "μηλοκλέφτης - #followthefox",
-  "platform": ["Header Responsive with Video"],
-  "id": 13
+    "url": "/images/milokleftis_header.jpg",
+    "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=heWix1mt1e0f0",
+    "title": "μηλοκλέφτης - #followthefox",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
   },
   {
     "url": "/images/allatini_kings.jpg",
@@ -1030,4 +1015,3 @@
     "id": 17
   }
 ]
-
