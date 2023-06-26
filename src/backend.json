@@ -1,4 +1,26 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
+    "title": "barathome - june 2023",
+    "platform": ["Overlay"],
+    "id": 29
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vikos_convads_june2023.png",
+    "href": " https://cloud.cavai.com/creatives/iframe/431-3386-4696-26092/ab200e0cac6a1cdceaf0da5f95dc15da?w=300&h=600",
+    "title": "vikos pink grapefruit - june 2023",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bmw_nextgen_june2023.png",
+    "href": "https://app.clipflip.video/embed/VZKKP3LYX8jfdheZg4ng/compare",
+    "title": "bmw i5 - june 2023",
+    "platform": ["Clipflip"],
+    "id": 30
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/deree_hVideo_june2023.png",
     "href": "https://canvas.adweb.gr/demo/alba/headerVideo_june2023.html",
     "title": "deree - alba june 2023",
@@ -41,20 +63,6 @@
     "id": 26
   },
   {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
-    "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
-    "title": "barathome - june 2023",
-    "platform": ["Overlay"],
-    "id": 29
-  },
-  {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bmw_nextgen_june2023.png",
-    "href": "https://app.clipflip.video/embed/VZKKP3LYX8jfdheZg4ng/compare",
-    "title": "bmw i5 - june 2023",
-    "platform": ["Clipflip"],
-    "id": 30
-  },
-  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
     "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
     "title": "calvin klein - oct 2022",
@@ -69,10 +77,59 @@
     "id": 32
   },
   {
-    "url": "https://canvas.adweb.gr/demo/corona/corona_3d_billboard.html",
-    "href": "https://canvas.adweb.gr/demo/carroten/carroten_inread_june2023.html",
-    "title": "carroten",
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dbillboard_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/corona_3d_billboard.html",
+    "title": "corona - summer promo june 2023",
     "platform": ["3D Billboard"],
     "id": 33
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dcube_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/corona_3dCube_june2023.html",
+    "title": "corona - summer promo june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_lampa_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_lampa.html",
+    "title": "anakiklwsi suskeuwn - lampa - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_laptop_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_laptop.html",
+    "title": "anakiklwsi suskeuwn - laptop - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_sesouar_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_sesouar.html",
+    "title": "anakiklwsi suskeuwn - sesouar - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_skoupa_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_skoupa.html",
+    "title": "anakiklwsi suskeuwn - skoupa - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tilekontrol_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tilekontrol.html",
+    "title": "anakiklwsi suskeuwn - tilekontrol - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tileorasi_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tileorasi.html",
+    "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
   }
 ]
