@@ -53,5 +53,12 @@
     "title": "calvin klein - oct 2022",
     "platform": ["Filmstrip"],
     "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/carroten_inread.png",
+    "href": "https://canvas.adweb.gr/demo/carroten/carroten_inread_june2023.html",
+    "title": "carroten",
+    "platform": ["In Read Video"],
+    "id": 32
   }
 ]

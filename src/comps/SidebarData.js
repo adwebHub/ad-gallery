@@ -258,4 +258,12 @@ export const SidebarData = [
     myName: 'Filmstrip',
     id: 31
   },
+  {
+    title: 'In Read Video',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'In Read Video',
+    id: 32
+  },
 ];
