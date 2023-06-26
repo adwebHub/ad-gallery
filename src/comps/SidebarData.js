@@ -250,4 +250,12 @@ export const SidebarData = [
     myName: 'Clipflip',
     id: 30
   },
+  {
+    title: 'Filmstrip',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Filmstrip',
+    id: 31
+  },
 ];

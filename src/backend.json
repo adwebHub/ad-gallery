@@ -45,13 +45,13 @@
     "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
     "title": "barathome - june 2023",
     "platform": ["Overlay"],
-    "id": 29
+    "id": 30
   },
   {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bmw_nextgen_june2023.png",
-    "href": "https://app.clipflip.video/embed/VZKKP3LYX8jfdheZg4ng/compare",
-    "title": "bmw i5 - june 2023",
-    "platform": ["Clipflip"],
-    "id": 29
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
+    "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
+    "title": "calvin klein - oct 2022",
+    "platform": ["Filmstrip"],
+    "id": 31
   }
 ]
