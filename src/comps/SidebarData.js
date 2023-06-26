@@ -5,7 +5,7 @@ export const SidebarData = [
   {
     title: '3D Billboard',
     path: '/',
-    icon: <AiIcons.AiFillTag color='black'/>,
+    icon: <AiIcons.AiFillTag color='black' />,
     cName: 'nav-text',
     myName: '3D Billboard',
     id: 29
@@ -163,11 +163,11 @@ export const SidebarData = [
     id: 18
   },
   {
-    title: 'Responsive ads',
+    title: 'Next Gen Video',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Responsive ads',
+    myName: 'Next Gen Video',
     id: 19
   },
   {
@@ -219,11 +219,11 @@ export const SidebarData = [
     id: 25
   },
   {
-    title: 'Wallpaper Takeover',
+    title: 'Wallpaper Video Carousel',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Wallpaper Takeover',
+    myName: 'Wallpaper Video Carousel',
     id: 26
   },
   {
@@ -233,5 +233,13 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Webover Video Selector',
     id: 28
+  },
+  {
+    title: 'Overlay',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Overlay',
+    id: 29
   },
 ];

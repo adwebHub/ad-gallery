@@ -15,8 +15,36 @@
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_scratch_june2023.png",
     "href": "https://canvas.adweb.gr/demo/ab/scratch_june2023.html",
-    "title": "ab vasilopoulos - kuhn rikon",
+    "title": "ab vasilopoulos - kuhn rikon june 2023",
     "platform": ["Interstitial Scratch"],
     "id": 17
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alpro_nextgen_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/alpro/alpro1.html",
+    "title": "alpro - not milk june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/avis_wvc_june2023_astronaut.png",
+    "href": "https://canvas.adweb.gr/demo/avis/wallpaperVideoCarousel_astronaut.html",
+    "title": "avis - astronaut june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/avis_wvc_june2023_diver.png",
+    "href": "https://canvas.adweb.gr/demo/avis/wallpaperVideoCarousel_diver.html",
+    "title": "avis - diver june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
+    "title": "barathome - june 2023",
+    "platform": ["Overlay"],
+    "id": 29
   }
 ]
