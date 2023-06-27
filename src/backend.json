@@ -1,4 +1,32 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_students_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_students_june2023.html",
+    "title": "knorr students - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_professionals_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_professionals_june2023.html",
+    "title": "knorr professionals - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_generic_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_generic_june2023.html",
+    "title": "knorr generic - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_gamers_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_gamers_june2023.html",
+    "title": "knorr gamers - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_970x250_june2023.png",
     "href": "https://canvas.adweb.gr/demo/heineken/slider_970x250_June2023.html",
     "title": "heineken 150y 970x250 - june 2023",
@@ -25,6 +53,62 @@
     "title": "heineken 150y webover - june 2023",
     "platform": ["Slider"],
     "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_compensation_June2023.html",
+    "title": "hellas direct compensation - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_dayNight_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_disruption_June2023.html",
+    "title": "hellas direct disruption - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_garage_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_Garage_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Compensation_June2023.html",
+    "title": "hellas direct compensation - june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_dayNight_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Disruption_June2023.html",
+    "title": "hellas direct disruption - june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_garage_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Garage_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wsv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/weboverVideoSelector_June2023.html",
+    "title": "hellas direct - june 2023",
+    "platform": ["Webover Video Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wvc_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/wallpapperVideoCarousel_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
@@ -117,6 +201,20 @@
     "title": "corona - summer promo june 2023",
     "platform": ["3D Billboard"],
     "id": 33
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/ikea/300x250_timer_june2023.html",
+    "title": "ikea - shopping event june 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/ikea/300x600_timer_june2023.html",
+    "title": "ikea - shopping event june 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dcube_june2023.png",

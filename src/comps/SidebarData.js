@@ -171,11 +171,11 @@ export const SidebarData = [
     id: 21
   },
   {
-    title: 'Super Video Billboard',
+    title: 'Video Maxed Carousel',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Super Video Billboard',
+    myName: 'Video Maxed Carousel',
     id: 22
   },
   {
