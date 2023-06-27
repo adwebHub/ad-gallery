@@ -286,10 +286,10 @@
     "id": 12
   },
   {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_magazine_june2023.png",
     "href": "https://canvas.adweb.gr/demo/vodafone/vodafone_magazine.html",
-    "title": "ikea - shopping event 300x600 june 2023",
-    "platform": ["Countdown Timer"],
+    "title": "vodafone tv superheroes - june 2023",
+    "platform": ["Magazine"],
     "id": 16
   },
   {
@@ -410,6 +410,48 @@
     "title": "sarantis teza - may 2023",
     "platform": ["In Read Video"],
     "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/webover_selector.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/videoOverlay_may2023.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/inread_may2023.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/eko_cube_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/eko/cube_300x600_may2023.html",
+    "title": "eko basket asia platforms - may 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_original_cube_feb2023.png",
+    "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_original.html",
+    "title": "wasa original - feb 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_delikatess_cube_feb2023.png",
+    "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_delikatess.html",
+    "title": "wasa delikatess - feb 2023",
+    "platform": ["3D Cube"],
+    "id": 1
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",

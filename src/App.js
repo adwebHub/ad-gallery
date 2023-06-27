@@ -28,7 +28,7 @@ function App() {
       const data = response.data;
       console.log(data)
       setAllData(data);
-      setFilteredData(data);
+      setFilteredData(data.slice(0, 30));
     } catch (error) {
       if (error.response) {
         // The request was made and the server responded with a status code
