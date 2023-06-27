@@ -1,9 +1,30 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_970x250_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_970x250_June2023.html",
+    "title": "heineken 150y 970x250 - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_300x600_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_300x600_June2023.html",
+    "title": "heineken 150y 300x600 - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_300x250_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_300x250_June2023.html",
+    "title": "heineken 150y 300x250 - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_webover_june2023.png",
     "href": "https://canvas.adweb.gr/demo/heineken/slider_Webover_June2023.html",
-    "title": "barathome - june 2023",
-    "platform": ["Overlay"],
-    "id": 29
+    "title": "heineken 150y webover - june 2023",
+    "platform": ["Slider"],
+    "id": 24
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
