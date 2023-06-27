@@ -123,11 +123,11 @@ export const SidebarData = [
     id: 15
   },
   {
-    title: 'Interstitial / Overlay',
+    title: 'Magazine',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Interstitial / Overlay',
+    myName: 'Magazine',
     id: 16
   },
   {
