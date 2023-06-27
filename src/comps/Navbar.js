@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState } from 'react';
 import * as FaIcons from 'react-icons/fa';
 import * as AiIcons from 'react-icons/ai';
 import { Link } from 'react-router-dom';
@@ -9,9 +9,6 @@ import { IconContext } from 'react-icons';
 function Navbar(props) {
   const [sidebar, setSidebar] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
-
-  const sidebarRef = useRef(null);
-  const touchStartXRef = useRef(0);
 
   const showSidebar = () => setSidebar(!sidebar);
 
@@ -27,21 +24,6 @@ function Navbar(props) {
     item.title.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
-  const handleTouchStart = (event) => {
-    touchStartXRef.current = event.touches[0].clientX;
-  };
-
-  const handleTouchEnd = (event) => {
-    const touchEndX = event.changedTouches[0].clientX;
-    const touchStartX = touchStartXRef.current;
-    const touchDiff = touchStartX - touchEndX;
-
-    if (touchDiff > 100) {
-      // Swipe left detected, close the sidebar
-      setSidebar(false);
-    }
-  };
-
   return (
     <>
       <IconContext.Provider value={{ color: '#fff' }}>
@@ -51,27 +33,23 @@ function Navbar(props) {
           </Link>
           <span id='myId'>Discover our awesome formats</span>
         </div>
-        <nav
-          className={sidebar ? 'nav-menu' : 'nav-menu active'}
-          id='style-7'
-          ref={sidebarRef}
-          onTouchStart={handleTouchStart}
-          onTouchEnd={handleTouchEnd}
-        >
-          <ul className='nav-menu-items'>
+        <nav className={sidebar ? 'nav-menu' : 'nav-menu active'} id='style-7'>
+          <ul className='nav-menu-items' >
             <li className='navbar-toggle'>
-              <Link to='#' className='menu-bars'>
-                <AiIcons.AiOutlineClose onClick={showSidebar} />
-              </Link>
-              <span id='myId'>Choose your format</span>
-              <li className='search-bar'>
+              <div className="navbar-content">
+                <Link to='#' className='menu-bars'>
+                  <AiIcons.AiOutlineClose onClick={showSidebar} />
+                </Link>
+                <span id='myId'>Choose your format</span>
+              </div>
+              <div className='search-bar'>
                 <input
                   type='text'
                   placeholder='Search...'
                   value={searchQuery}
                   onChange={handleSearch}
                 />
-              </li>
+              </div>
             </li>
             {filteredSidebarData.map((item, index) => {
               return (
