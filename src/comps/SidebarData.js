@@ -203,14 +203,6 @@ export const SidebarData = [
     id: 24
   },
   {
-    title: 'Super Video Takeover',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'VIMO',
-    id: 23
-  },
-  {
     title: 'Video Maxed Carousel',
     path: '/',
     icon: <AiIcons.AiFillTag />,
