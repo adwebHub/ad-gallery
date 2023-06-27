@@ -187,11 +187,11 @@ export const SidebarData = [
     id: 23
   },
   {
-    title: 'Vertical Slider',
+    title: 'Slider',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Vertical Slider',
+    myName: 'Slider',
     id: 24
   },
   {

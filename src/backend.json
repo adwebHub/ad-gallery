@@ -1,4 +1,11 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_webover_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_Webover_June2023.html",
+    "title": "barathome - june 2023",
+    "platform": ["Overlay"],
+    "id": 29
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
     "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
     "title": "barathome - june 2023",
@@ -148,10 +155,23 @@
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_footerExpand_may2023.png",
-    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tileorasi.html",
-    "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
+    "href": "https://canvas.adweb.gr/demo/frezyderm/footer_expand_full.html",
+    "title": "frezyderm sunscreen - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_videoOverlay_seaside_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/frezyderm/videoOverlay_SeaSide_june2023.html",
+    "title": "frezyderm seaside - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_videoOverlay_velvet_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/frezyderm/videoOverlay_velvet_june2023.html",
+    "title": "frezyderm velvet - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
   }
-
 ]
