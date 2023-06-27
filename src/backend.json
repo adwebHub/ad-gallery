@@ -349,6 +349,13 @@
     "id": 1
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_clipflip_june2023.png",
+    "href": "https://app.clipflip.video/embed/Bw0muvJw51rretnk7KXF/compare",
+    "title": "froneri nuii - june 2023",
+    "platform": ["Clipflip"],
+    "id": 30
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_footerExpand_may2023.png",
     "href": "https://canvas.adweb.gr/demo/frezyderm/footer_expand_full.html",
     "title": "frezyderm sunscreen - may 2023",
@@ -440,24 +447,45 @@
     "id": 1
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_ws_apr2023.png",
+    "href": "https://canvas.adweb.gr/demo/froneri/nuii_weboverSelector_Apr2023.html",
+    "title": "froneri nuii - april 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/davrados_header_feb2023.png",
+    "href": "https://canvas.adweb.gr/demo/davrados/header_feb2023.html",
+    "title": "davrados group general - february 2023",
+    "platform": ["Header"],
+    "id": 11
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_original_cube_feb2023.png",
     "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_original.html",
-    "title": "wasa original - feb 2023",
+    "title": "wasa original - february 2023",
     "platform": ["3D Cube"],
     "id": 1
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_delikatess_cube_feb2023.png",
     "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_delikatess.html",
-    "title": "wasa delikatess - feb 2023",
+    "title": "wasa delikatess - february 2023",
     "platform": ["3D Cube"],
     "id": 1
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
     "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
-    "title": "calvin klein - oct 2022",
+    "title": "calvin klein - october 2022",
     "platform": ["Filmstrip"],
     "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_cExpandable_june2021.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
+    "title": "vodafone secure net family - june 2021",
+    "platform": ["Carousel Expandable"],
+    "id": 6
   }
 ]

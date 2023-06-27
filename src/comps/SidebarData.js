@@ -3,6 +3,14 @@ import * as AiIcons from 'react-icons/ai';
 
 export const SidebarData = [
   {
+    title: '3D Billboard',
+    path: '/',
+    icon: <AiIcons.AiFillTag color='black' />,
+    cName: 'nav-text',
+    myName: '3D Billboard',
+    id: 33
+  },
+  {
     title: '3D Cube',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -43,6 +51,14 @@ export const SidebarData = [
     id: 6
   },
   {
+    title: 'Clipflip',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Clipflip',
+    id: 30
+  },
+  {
     title: 'Conversational Ads',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -65,6 +81,14 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Expand',
     id: 7
+  },
+  {
+    title: 'Filmstrip',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Filmstrip',
+    id: 31
   },
   {
     title: 'Floor Ad',
@@ -115,6 +139,14 @@ export const SidebarData = [
     id: 14
   },
   {
+    title: 'In Read Video',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'In Read Video',
+    id: 32
+  },
+  {
     title: 'Inline Video',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -123,12 +155,12 @@ export const SidebarData = [
     id: 15
   },
   {
-    title: 'Magazine',
+    title: 'Interactive Footer with Video',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Magazine',
-    id: 16
+    myName: 'Interactive Footer with Video',
+    id: 27
   },
   {
     title: 'Interstitial Scratch',
@@ -137,6 +169,14 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Interstitial Scratch',
     id: 17
+  },
+  {
+    title: 'Magazine',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Magazine',
+    id: 16
   },
   {
     title: 'Mobile Video Expandable (MOVEX)',
@@ -155,6 +195,14 @@ export const SidebarData = [
     id: 19
   },
   {
+    title: 'Overlay',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Overlay',
+    id: 29
+  },
+  {
     title: 'Retube',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -171,28 +219,28 @@ export const SidebarData = [
     id: 21
   },
   {
-    title: 'Video Maxed Carousel',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Video Maxed Carousel',
-    id: 22
-  },
-  {
-    title: 'VIMO',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Super Video Takeover',
-    id: 23
-  },
-  {
     title: 'Slider',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Slider',
     id: 24
+  },
+  {
+    title: 'Super Video Takeover',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'VIMO',
+    id: 23
+  },
+  {
+    title: 'Video Maxed Carousel',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Video Maxed Carousel',
+    id: 22
   },
   {
     title: 'Video Overlay',
@@ -211,12 +259,12 @@ export const SidebarData = [
     id: 26
   },
   {
-    title: 'Interactive Footer with Video',
+    title: 'Webover Image Gallery',
     path: '/',
-    icon: <AiIcons.AiFillTag />,
+    icon: <AiIcons.AiFillTag color='black' />,
     cName: 'nav-text',
-    myName: 'Interactive Footer with Video',
-    id: 27
+    myName: 'Webover Image Gallery',
+    id: 34
   },
   {
     title: 'Webover Selector',
@@ -225,53 +273,5 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Webover Selector',
     id: 28
-  },
-  {
-    title: 'Overlay',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Overlay',
-    id: 29
-  },
-  {
-    title: 'Clipflip',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Clipflip',
-    id: 30
-  },
-  {
-    title: 'Filmstrip',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Filmstrip',
-    id: 31
-  },
-  {
-    title: 'In Read Video',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'In Read Video',
-    id: 32
-  },
-  {
-    title: '3D Billboard',
-    path: '/',
-    icon: <AiIcons.AiFillTag color='black' />,
-    cName: 'nav-text',
-    myName: '3D Billboard',
-    id: 33
-  },
-  {
-    title: 'Webover Image Gallery',
-    path: '/',
-    icon: <AiIcons.AiFillTag color='black' />,
-    cName: 'nav-text',
-    myName: 'Webover Image Gallery',
-    id: 34
   }
 ];
