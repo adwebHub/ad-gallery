@@ -489,6 +489,27 @@
     "id": 31
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_movex_june2022.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/movex_june2022.html",
+    "title": "vodafone disney plus - june 2022",
+    "platform": ["Mobile Video Expandable (MOVEX)"],
+    "id": 18
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nuii_retube_apr2022.png",
+    "href": "https://canvas.adweb.gr/demo/froneri/nuii_retube_apr2022.html",
+    "title": "froneri nuii summer 22' - june 2022",
+    "platform": ["Retube"],
+    "id": 20
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/intersport_sidekick_jan2022.png",
+    "href": "https://canvas.adweb.gr/demo/intersport/sidekick_jan2022.html",
+    "title": "intersport winter sales - january 2022",
+    "platform": ["SideKick"],
+    "id": 21
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_cExpandable_june2021.png",
     "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
     "title": "vodafone secure net family - june 2021",

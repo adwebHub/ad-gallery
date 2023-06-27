@@ -36,18 +36,20 @@ function Navbar(props) {
         <nav className={sidebar ? 'nav-menu' : 'nav-menu active'} id='style-7'>
           <ul className='nav-menu-items' >
             <li className='navbar-toggle'>
-              <Link to='#' className='menu-bars'>
-                <AiIcons.AiOutlineClose onClick={showSidebar} />
-              </Link>
-              <span id='myId'>Choose your format</span>
-              <li className='search-bar'>
+              <div className="navbar-content">
+                <Link to='#' className='menu-bars'>
+                  <AiIcons.AiOutlineClose onClick={showSidebar} />
+                </Link>
+                <span id='myId'>Choose your format</span>
+              </div>
+              <div className='search-bar'>
                 <input
                   type='text'
                   placeholder='Search...'
                   value={searchQuery}
                   onChange={handleSearch}
                 />
-              </li>
+              </div>
             </li>
             {filteredSidebarData.map((item, index) => {
               return (
