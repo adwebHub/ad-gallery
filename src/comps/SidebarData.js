@@ -179,7 +179,7 @@ export const SidebarData = [
     id: 22
   },
   {
-    title: 'Super Video Takeover',
+    title: 'VIMO',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
@@ -219,11 +219,11 @@ export const SidebarData = [
     id: 27
   },
   {
-    title: 'Webover Video Selector',
+    title: 'Webover Selector',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Webover Video Selector',
+    myName: 'Webover Selector',
     id: 28
   },
   {
