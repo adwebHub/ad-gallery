@@ -19,30 +19,6 @@ export const SidebarData = [
     id: 1
   },
   {
-    title: 'Adapodidoume',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Adapodidoume',
-    id: 2
-  },
-  {
-    title: 'Advertorials',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Advertorials',
-    id: 3
-  },
-  {
-    title: 'Bubble Conversational Ads',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Bubble Conversational Ads',
-    id: 4
-  },
-  {
     title: 'Carousel Expandable',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -73,14 +49,6 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Countdown Timer',
     id: 12
-  },
-  {
-    title: 'Expand',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Expand',
-    id: 7
   },
   {
     title: 'Filmstrip',
@@ -169,6 +137,14 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Interstitial Scratch',
     id: 17
+  },
+  {
+    title: 'LookBook',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'LookBook',
+    id: 2
   },
   {
     title: 'Magazine',
