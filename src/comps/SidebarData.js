@@ -19,6 +19,14 @@ export const SidebarData = [
     id: 1
   },
   {
+    title: 'Billboard Carousel',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Billboard Carousel',
+    id: 3
+  },
+  {
     title: 'Carousel Expandable',
     path: '/',
     icon: <AiIcons.AiFillTag />,
