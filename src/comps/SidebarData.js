@@ -5,7 +5,7 @@ export const SidebarData = [
   {
     title: '3D Billboard',
     path: '/',
-    icon: <AiIcons.AiFillTag color='black' />,
+    icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: '3D Billboard',
     id: 33
@@ -237,7 +237,7 @@ export const SidebarData = [
   {
     title: 'Webover Image Gallery',
     path: '/',
-    icon: <AiIcons.AiFillTag color='black' />,
+    icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Webover Image Gallery',
     id: 34
