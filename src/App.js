@@ -132,7 +132,7 @@ function App() {
 
           <div className='searchBar'>
             {/* <FontAwesomeIcon style={{ cursor: 'pointer' }} icon={faSearch} onClick={handleFilter}></FontAwesomeIcon> */}
-            <input placeholder='Search' className='searchBar' type="text" onKeyDown={handleKeyDown} onChange={(event) => { setSearchTerm(event.target.value.toLowerCase()); }} />
+            <input placeholder='press Enter to search...' className='searchBar' type="text" onKeyDown={handleKeyDown} onChange={(event) => { setSearchTerm(event.target.value.toLowerCase()); }} />
           </div>
           <div className='filterContainer'>
             Filters: <ToggleButton platform='Clear' id='' status={false} handlerFunc={handleFilter} /> {filterList}
