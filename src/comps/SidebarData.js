@@ -108,7 +108,7 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'Header',
     id: 11,
-    spec: 'https://canvas.adweb.gr/portfolio-item/header/'
+    specs: 'https://canvas.adweb.gr/portfolio-item/header/'
   },
   {
     title: 'Header Responsive with Video',
