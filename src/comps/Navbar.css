@@ -167,3 +167,7 @@ span {
 .search-bar input:focus {
   outline: none;
 }
+
+.info {
+  display: none;
+}

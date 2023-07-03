@@ -4,6 +4,8 @@ import * as AiIcons from 'react-icons/ai';
 import { Link } from 'react-router-dom';
 import { SidebarData } from './SidebarData';
 import './Navbar.css';
+import { BsInfoCircle } from 'react-icons/bs';
+
 import { IconContext } from 'react-icons';
 
 function Navbar(props) {
@@ -57,8 +59,11 @@ function Navbar(props) {
                   <div onClick={() => handleClick(item.id, item.title)}>
                     {item.icon}
                     <span>{item.title}</span>
-                    {item.infoIcon}
+
                   </div>
+                  <a href={item.specs} target="_blank" rel="noopener noreferrer">
+                    <BsInfoCircle size={20} style={{ marginRight: '5px', marginBottom: '25px' }} />
+                  </a>
                 </li>
               );
             })}

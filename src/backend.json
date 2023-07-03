@@ -1,4 +1,25 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aegeanCollege_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean_college/nextGen_july2023.html",
+    "title": "aegean college next gen - july 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/iekOmiros_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/iek_omiros/nextGen_july2023.html",
+    "title": "iek omiros next gen - july 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/amita_3d_bb_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/amita_3d_billboard_july2023.html",
+    "title": "3e coca cola amita free - july 2023",
+    "platform": ["3D Billboard"],
+    "id": 33
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_ifv_july2023.png",
     "href": "https://canvas.adweb.gr/demo/durex/durex_interactiveFooter_july2023.html",
     "title": "reckitt summer campaign durex - july 2023",

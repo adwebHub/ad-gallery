@@ -8,7 +8,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: '3D Billboard',
-    id: 33
+    id: 33,
+    specs: 'https://canvas.adweb.gr/portfolio-item/3d-animated-billboard'
   },
   {
     title: '3D Cube',
@@ -16,7 +17,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: '3D Cube',
-    id: 1
+    id: 1,
+    specs: 'https://canvas.adweb.gr/portfolio-item/3d-cube'
   },
   {
     title: 'Billboard Carousel',
@@ -24,7 +26,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Billboard Carousel',
-    id: 3
+    id: 3,
+    specs: 'https://canvas.adweb.gr/portfolio-item/billboardcarousel/'
   },
   {
     title: 'Carousel Expandable',
@@ -32,7 +35,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Carousel Expandable',
-    id: 6
+    id: 6,
+    specs: 'https://canvas.adweb.gr/portfolio-item/carousel-expandable/'
   },
   {
     title: 'Clipflip',
@@ -40,7 +44,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Clipflip',
-    id: 30
+    id: 30,
+    specs: 'https://canvas.adweb.gr/portfolio-item/clipflip/'
   },
   {
     title: 'Conversational Ads',
@@ -48,7 +53,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Conversational Ads',
-    id: 5
+    id: 5,
+    specs: 'https://canvas.adweb.gr/portfolio-item/conversational_ads/'
   },
   {
     title: 'Countdown Timer',
@@ -56,7 +62,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Countdown Timer',
-    id: 12
+    id: 12,
+    specs: 'https://canvas.adweb.gr/portfolio-item/countdown-timer/'
   },
   {
     title: 'Filmstrip',
@@ -64,7 +71,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Filmstrip',
-    id: 31
+    id: 31,
+    specs: 'https://canvas.adweb.gr/portfolio-item/filmstrip/'
   },
   {
     title: 'Floor Ad',
@@ -72,7 +80,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Floor Ad',
-    id: 8
+    id: 8,
+    specs: 'https://canvas.adweb.gr/portfolio-item/flooar_ad/'
   },
   {
     title: 'Footer Expand',
@@ -80,7 +89,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Footer Expand',
-    id: 9
+    id: 9,
+    specs: 'https://canvas.adweb.gr/portfolio-item/footer-expand/'
   },
   {
     title: 'Full Page Takeover',
@@ -88,7 +98,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Full Page Takeover',
-    id: 10
+    id: 10,
+    specs: 'https://canvas.adweb.gr/portfolio-item/full-page-takeover/'
   },
   {
     title: 'Header',
@@ -96,7 +107,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Header',
-    id: 11
+    id: 11,
+    spec: 'https://canvas.adweb.gr/portfolio-item/header/'
   },
   {
     title: 'Header Responsive with Video',
@@ -104,7 +116,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Header Responsive with Video',
-    id: 13
+    id: 13,
+    specs: 'https://canvas.adweb.gr/portfolio-item/header/'
   },
   {
     title: 'In Banner Video',
@@ -112,7 +125,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'In Banner Video',
-    id: 14
+    id: 14,
+    specs: 'https://canvas.adweb.gr/portfolio-item/in-banner-video/'
   },
   {
     title: 'In Read Video',
@@ -120,7 +134,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'In Read Video',
-    id: 32
+    id: 32,
+    specs: 'https://canvas.adweb.gr/portfolio-item/inread/'
   },
   {
     title: 'Inline Video',
@@ -128,7 +143,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Inline Video',
-    id: 15
+    id: 15,
+    specs: 'https://canvas.adweb.gr/portfolio-item/inline-video/'
   },
   {
     title: 'Interactive Footer with Video',
@@ -136,7 +152,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Interactive Footer with Video',
-    id: 27
+    id: 27,
+    specs: 'https://canvas.adweb.gr/portfolio-item/interactive-footer-with-video/'
   },
   {
     title: 'Interstitial Scratch',
@@ -144,7 +161,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Interstitial Scratch',
-    id: 17
+    id: 17,
+    specs: 'https://canvas.adweb.gr/portfolio-item/mobile-scratch/'
   },
   {
     title: 'LookBook',
@@ -152,7 +170,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'LookBook',
-    id: 2
+    id: 2,
+    specs: 'https://canvas.adweb.gr/portfolio-item/lookbook/'
   },
   {
     title: 'Magazine',
@@ -160,7 +179,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Magazine',
-    id: 16
+    id: 16,
+    specs: 'https://canvas.adweb.gr/portfolio-item/magazine/'
   },
   {
     title: 'Mobile Video Expandable (MOVEX)',
@@ -168,7 +188,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Mobile Video Expandable (MOVEX)',
-    id: 18
+    id: 18,
+    specs: 'https://canvas.adweb.gr/portfolio-item/movex/'
   },
   {
     title: 'Next Gen Video',
@@ -176,7 +197,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Next Gen Video',
-    id: 19
+    id: 19,
+    specs: 'https://canvas.adweb.gr/portfolio-item/next-gen-video/'
   },
   {
     title: 'Overlay',
@@ -184,7 +206,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Overlay',
-    id: 29
+    id: 29,
+    specs: 'https://canvas.adweb.gr/portfolio-item/overlay/'
   },
   {
     title: 'Retube',
@@ -192,7 +215,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Retube',
-    id: 20
+    id: 20,
+    specs: 'https://canvas.adweb.gr/portfolio-item/retube/'
   },
   {
     title: 'SideKick',
@@ -200,7 +224,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'SideKick',
-    id: 21
+    id: 21,
+    specs: 'https://canvas.adweb.gr/portfolio-item/sidekick/'
   },
   {
     title: 'Slider',
@@ -208,7 +233,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Slider',
-    id: 24
+    id: 24,
+    specs: 'https://canvas.adweb.gr/portfolio-item/vertical-slider/'
   },
   {
     title: 'Video Maxed Carousel',
@@ -216,7 +242,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Video Maxed Carousel',
-    id: 22
+    id: 22,
+    specs: 'https://canvas.adweb.gr/portfolio-item/video-maxed-carousel/'
   },
   {
     title: 'Video Overlay',
@@ -224,7 +251,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Video Overlay',
-    id: 25
+    id: 25,
+    specs: 'https://canvas.adweb.gr/portfolio-item/video-overlay/'
   },
   {
     title: 'Wallpaper Video Carousel',
@@ -232,7 +260,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Wallpaper Video Carousel',
-    id: 26
+    id: 26,
+    specs: 'https://canvas.adweb.gr/portfolio-item/wallpaper-video-carousel/'
   },
   {
     title: 'Webover Image Gallery',
@@ -240,7 +269,8 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Webover Image Gallery',
-    id: 34
+    id: 34,
+    specs: 'https://canvas.adweb.gr/portfolio-item/webover-image-gallery/'
   },
   {
     title: 'Webover Selector',
@@ -248,6 +278,7 @@ export const SidebarData = [
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
     myName: 'Webover Selector',
-    id: 28
+    id: 28,
+    specs: 'https://canvas.adweb.gr/portfolio-item/webover-selector/'
   }
 ];
