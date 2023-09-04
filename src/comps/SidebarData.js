@@ -66,6 +66,15 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/countdown-timer/'
   },
   {
+    title: 'Custom Creative',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Custom Creative',
+    id: 4,
+    //specs: ''
+  },
+  {
     title: 'Filmstrip',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -208,6 +217,15 @@ export const SidebarData = [
     myName: 'Overlay',
     id: 29,
     specs: 'https://canvas.adweb.gr/portfolio-item/overlay/'
+  },
+  {
+    title: 'Parallax',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Parallax',
+    id: 7,
+    specs: 'https://canvas.adweb.gr/portfolio-item/parallax/'
   },
   {
     title: 'Retube',
