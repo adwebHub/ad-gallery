@@ -255,15 +255,6 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/vertical-slider/'
   },
   {
-    title: 'Slider',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Slider',
-    id: 23,
-    specs: 'https://canvas.adweb.gr/portfolio-item/vertical-slider/'
-  },
-  {
     title: 'SOME Stories',
     path: '/',
     icon: <AiIcons.AiFillTag />,
