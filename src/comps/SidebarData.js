@@ -255,6 +255,51 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/vertical-slider/'
   },
   {
+    title: 'Slider',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Slider',
+    id: 23,
+    specs: 'https://canvas.adweb.gr/portfolio-item/vertical-slider/'
+  },
+  {
+    title: 'SOME Stories',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'SOME Stories',
+    id: 35,
+    specs: 'https://canvas.adweb.gr/portfolio-item/social-extend-stories/'
+  },
+  {
+    title: 'SOME Posts',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'SOME Posts',
+    id: 36,
+    specs: 'https://canvas.adweb.gr/portfolio-item/social-extend-posts/'
+  },
+  {
+    title: 'SOME Carousel',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'SOME Carousel',
+    id: 37,
+    specs: 'https://canvas.adweb.gr/portfolio-item/socia-extend-carousel/'
+  },
+  {
+    title: 'SOME Clips',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'SOME Clips',
+    id: 38,
+    specs: 'https://canvas.adweb.gr/social-extend-clips/'
+  },
+  {
     title: 'Video Maxed Carousel',
     path: '/',
     icon: <AiIcons.AiFillTag />,
