@@ -93,15 +93,6 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/inread/'
   },
   {
-    title: 'Interactive Footer with Video',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Interactive Footer with Video',
-    id: 27,
-    specs: 'https://canvas.adweb.gr/portfolio-item/interactive-footer-with-video/'
-  },
-  {
     title: 'Interstitial Scratch',
     path: '/',
     icon: <AiIcons.AiFillTag />,
