@@ -84,15 +84,6 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/header/'
   },
   {
-    title: 'Header Responsive with Video',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Header Responsive with Video',
-    id: 13,
-    specs: 'https://canvas.adweb.gr/portfolio-item/header/'
-  },
-  {
     title: 'In Read Video',
     path: '/',
     icon: <AiIcons.AiFillTag />,
