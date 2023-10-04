@@ -3,15 +3,6 @@ import * as AiIcons from 'react-icons/ai';
 
 export const SidebarData = [
   {
-    title: '3D Billboard',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: '3D Billboard',
-    id: 33,
-    specs: 'https://canvas.adweb.gr/portfolio-item/3d-animated-billboard'
-  },
-  {
     title: '3D Cube',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -28,15 +19,6 @@ export const SidebarData = [
     myName: 'Billboard Carousel',
     id: 3,
     specs: 'https://canvas.adweb.gr/portfolio-item/billboardcarousel/'
-  },
-  {
-    title: 'Carousel Expandable',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Carousel Expandable',
-    id: 6,
-    specs: 'https://canvas.adweb.gr/portfolio-item/carousel-expandable/'
   },
   {
     title: 'Clipflip',
@@ -93,15 +75,6 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/footer/'
   },
   {
-    title: 'Full Page Takeover',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Full Page Takeover',
-    id: 10,
-    specs: 'https://canvas.adweb.gr/portfolio-item/full-page-takeover/'
-  },
-  {
     title: 'Header',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -120,15 +93,6 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/header/'
   },
   {
-    title: 'In Banner Video',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'In Banner Video',
-    id: 14,
-    specs: 'https://canvas.adweb.gr/portfolio-item/in-banner-video/'
-  },
-  {
     title: 'In Read Video',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -136,15 +100,6 @@ export const SidebarData = [
     myName: 'In Read Video',
     id: 32,
     specs: 'https://canvas.adweb.gr/portfolio-item/inread/'
-  },
-  {
-    title: 'Inline Video',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Inline Video',
-    id: 15,
-    specs: 'https://canvas.adweb.gr/portfolio-item/inline-video/'
   },
   {
     title: 'Interactive Footer with Video',
@@ -163,15 +118,6 @@ export const SidebarData = [
     myName: 'Interstitial Scratch',
     id: 17,
     specs: 'https://canvas.adweb.gr/portfolio-item/mobile-scratch/'
-  },
-  {
-    title: 'LookBook',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'LookBook',
-    id: 2,
-    specs: 'https://canvas.adweb.gr/portfolio-item/lookbook/'
   },
   {
     title: 'Magazine',
