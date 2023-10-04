@@ -84,22 +84,13 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/filmstrip/'
   },
   {
-    title: 'Floor Ad',
+    title: 'Footer',
     path: '/',
     icon: <AiIcons.AiFillTag />,
     cName: 'nav-text',
-    myName: 'Floor Ad',
-    id: 8,
-    specs: 'https://canvas.adweb.gr/portfolio-item/flooar_ad/'
-  },
-  {
-    title: 'Footer Expand',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Footer Expand',
+    myName: 'Footer',
     id: 9,
-    specs: 'https://canvas.adweb.gr/portfolio-item/footer-expand/'
+    specs: 'https://canvas.adweb.gr/portfolio-item/footer/'
   },
   {
     title: 'Full Page Takeover',
@@ -237,15 +228,6 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/retube/'
   },
   {
-    title: 'SideKick',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'SideKick',
-    id: 21,
-    specs: 'https://canvas.adweb.gr/portfolio-item/sidekick/'
-  },
-  {
     title: 'Slider',
     path: '/',
     icon: <AiIcons.AiFillTag />,
@@ -298,15 +280,6 @@ export const SidebarData = [
     myName: 'Video Maxed Carousel',
     id: 22,
     specs: 'https://canvas.adweb.gr/portfolio-item/video-maxed-carousel/'
-  },
-  {
-    title: 'Video Overlay',
-    path: '/',
-    icon: <AiIcons.AiFillTag />,
-    cName: 'nav-text',
-    myName: 'Video Overlay',
-    id: 25,
-    specs: 'https://canvas.adweb.gr/portfolio-item/video-overlay/'
   },
   {
     title: 'Wallpaper Video Carousel',
