@@ -102,6 +102,15 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/mobile-scratch/'
   },
   {
+    title: 'Layered Overlay',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Layered Overlay',
+    id: 2,
+    specs: 'https://canvas.adweb.gr/portfolio-item/layered-overlay/'
+  },
+  {
     title: 'Magazine',
     path: '/',
     icon: <AiIcons.AiFillTag />,
