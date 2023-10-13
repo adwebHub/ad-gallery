@@ -207,7 +207,7 @@ export const SidebarData = [
     cName: 'nav-text',
     myName: 'SOME Clips',
     id: 38,
-    specs: 'https://canvas.adweb.gr/social-extend-clips/'
+    specs: 'https://canvas.adweb.gr/portfolio-item/social-extend-clips/'
   },
   {
     title: 'Video Maxed Carousel',
