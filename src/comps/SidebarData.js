@@ -66,6 +66,15 @@ export const SidebarData = [
     specs: 'https://canvas.adweb.gr/portfolio-item/filmstrip/'
   },
   {
+    title: 'Floor Ad',
+    path: '/',
+    icon: <AiIcons.AiFillTag />,
+    cName: 'nav-text',
+    myName: 'Floor Ad',
+    id: 6,
+    specs: 'https://canvas.adweb.gr/portfolio-item/floor_ad/'
+  },
+  {
     title: 'Footer',
     path: '/',
     icon: <AiIcons.AiFillTag />,
